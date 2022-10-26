@@ -1,0 +1,47 @@
+body{ 
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.center{
+    text-align: center;
+}
+.subtitulo{
+    font-size: 20px;
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+h1{
+    color: #76eec6;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+footer a{
+    margin: 20px;
+}
+.container{
+    padding: 0px 50px;
+}
+nav a:hover{
+    color: red;
+}
